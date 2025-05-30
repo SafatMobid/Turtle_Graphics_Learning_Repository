@@ -2,7 +2,7 @@ This repository serves as a record of my learning journey with Python’s Turtle
 
 ---
 ## Projects
-### 1. **Basic Shapes** - To be added
+### 1. **Basic Shapes** - turtle_Shapes.py
    - Purpose: Learn how to draw simple geometric shapes like squares, triangles, and circles using basic Turtle commands.
    - Concepts: Basic movement, loops, functions.
      
